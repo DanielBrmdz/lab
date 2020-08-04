@@ -8,7 +8,7 @@ app.get('/', function (req, res) {
 });
 
 function response(res){
-	res.send('HOLA MUNDO PRUEBA 1');
+	res.send('HOLA MUNDO FINAL');
 }
 
 function aleatorio() {
